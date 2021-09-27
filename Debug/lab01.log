@@ -1,0 +1,10 @@
+﻿  Controller.cpp
+C:\Users\user\Desktop\BSU_20-21\BSU_21-22\lab01\lab01\lab01\Queue.h(142,37): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\user\Desktop\BSU_20-21\BSU_21-22\lab01\lab01\lab01\Queue.h(138): message : во время компиляции функции-члена класс шаблон "void Queue<int>::addAll(int)"
+C:\Users\user\Desktop\BSU_20-21\BSU_21-22\lab01\lab01\lab01\Queue.h(119): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Queue<int>::addAll(int)"
+C:\Users\user\Desktop\BSU_20-21\BSU_21-22\lab01\lab01\lab01\Queue.h(60): message : во время компиляции функции-члена класс шаблон "Queue<int>::Queue(void)"
+C:\Users\user\Desktop\BSU_20-21\BSU_21-22\lab01\lab01\lab01\Controller.cpp(5): message : выполняется компиляция ссылки на экземпляр шаблон функции "Queue<int>::Queue(void)"
+C:\Users\user\Desktop\BSU_20-21\BSU_21-22\lab01\lab01\lab01\Controller.cpp(5): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Queue<int>"
+C:\Users\user\Desktop\BSU_20-21\BSU_21-22\lab01\lab01\lab01\Queue.h(147,37): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\Desktop\BSU_20-21\BSU_21-22\lab01\lab01\lab01\Queue.h(151,26): warning C4018: <=: несоответствие типов со знаком и без знака
+  lab01.vcxproj -> C:\Users\user\Desktop\BSU_20-21\BSU_21-22\lab01\lab01\Debug\lab01.exe
